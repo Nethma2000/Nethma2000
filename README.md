@@ -8,10 +8,9 @@ I'm a **Quality Engineer** with a passion for ensuring high-quality software and
 ## 🛠 Skills & Expertise
 - **Manual Testing**: Experienced in executing test cases, identifying defects, and ensuring software functionality.
 - **Test Planning & Design**: Collaborating with teams to create comprehensive test cases from functional/technical specs.
-- **Defect Tracking**: Proficient in defect reporting and verification using tools like **JIRA** and **BitBucket**.
+- **Defect Tracking**: Proficient in defect reporting and verification using tools like JIRA and BitBucket
 - **Regression Testing**: Ensuring the stability of software changes and updates.
-- **Web Development**: Skilled in **HTML, CSS, Bootstrap** and programming in **PHP, Java, C#**.
-- **Database Management**: Proficient in **MySQL**.
+- **Web Development**: Skilled in HTML, CSS, Bootstrap and programming in PHP, Java, C#*
 
 ---
 
